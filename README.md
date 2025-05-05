@@ -53,7 +53,7 @@ PORT=3001
 
 3. Start the development server:
    ```bash
-   npm run dev
+   npm start
    ```
 
 4. The application will be available at `http://localhost:3002`
