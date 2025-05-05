@@ -1,0 +1,33 @@
+{
+  "name": "retail-chatbot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "concurrently \"npm run start:server\" \"npm run start:client\"",
+    "start:server": "nodemon --exec \"tsx --require dotenv/config src/server/index.ts\"",
+    "start:client": "vite --port 3002"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "^4.2.0",
+    "axios": "^1.6.0",
+    "concurrently": "^8.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "openai": "^4.95.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^4.1.4",
+    "tsx": "^3.12.7",
+    "vite": "^5.4.18"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss7-compat": "^2.2.17",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.1",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3"
+  }
+}

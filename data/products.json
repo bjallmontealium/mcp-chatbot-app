@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 99.99,
+    "deal": "20% off for VIP customers"
+  },
+  {
+    "id": 2,
+    "name": "Running Shoes",
+    "category": "Apparel",
+    "price": 79.99,
+    "deal": "15% off for Fitness Enthusiasts"
+  },
+  {
+    "id": 3,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 199.99,
+    "deal": "10% off for Frequent Shoppers"
+  },
+  {
+    "id": 4,
+    "name": "Men's Performance T-Shirt",
+    "category": "Apparel",
+    "price": 29.99,
+    "deal": "Buy 2, get 1 free"
+  },
+  {
+    "id": 5,
+    "name": "Women's Yoga Leggings",
+    "category": "Apparel",
+    "price": 49.99,
+    "deal": "25% off with membership"
+  },
+  {
+    "id": 6,
+    "name": "Basketball",
+    "category": "Equipment",
+    "price": 24.99,
+    "deal": "10% off for team purchases"
+  },
+  {
+    "id": 7,
+    "name": "Tennis Racket",
+    "category": "Equipment",
+    "price": 89.99,
+    "deal": "15% off with string purchase"
+  },
+  {
+    "id": 8,
+    "name": "Hiking Boots",
+    "category": "Footwear",
+    "price": 129.99,
+    "deal": "20% off for outdoor club members"
+  },
+  {
+    "id": 9,
+    "name": "Camping Tent (4-Person)",
+    "category": "Outdoor Gear",
+    "price": 149.99,
+    "deal": "Free ground pad with purchase"
+  },
+  {
+    "id": 10,
+    "name": "Fitness Tracker",
+    "category": "Electronics",
+    "price": 59.99,
+    "deal": "10% off with app subscription"
+  },
+  {
+    "id": 11,
+    "name": "Soccer Cleats",
+    "category": "Footwear",
+    "price": 69.99,
+    "deal": "15% off for youth league players"
+  },
+  {
+    "id": 12,
+    "name": "Golf Club Set",
+    "category": "Equipment",
+    "price": 299.99,
+    "deal": "Free golf bag with purchase"
+  },
+  {
+    "id": 13,
+    "name": "Hydration Backpack",
+    "category": "Outdoor Gear",
+    "price": 39.99,
+    "deal": "20% off for trail runners"
+  },
+  {
+    "id": 14,
+    "name": "Baseball Glove",
+    "category": "Equipment",
+    "price": 79.99,
+    "deal": "10% off with ball purchase"
+  },
+  {
+    "id": 15,
+    "name": "Women's Running Jacket",
+    "category": "Apparel",
+    "price": 59.99,
+    "deal": "Buy one, get second 50% off"
+  },
+  {
+    "id": 16,
+    "name": "Portable Cooler",
+    "category": "Outdoor Gear",
+    "price": 89.99,
+    "deal": "15% off for camping bundles"
+  },
+  {
+    "id": 17,
+    "name": "Weightlifting Gloves",
+    "category": "Equipment",
+    "price": 19.99,
+    "deal": "2 pairs for $30"
+  },
+  {
+    "id": 18,
+    "name": "Kids' Bike Helmet",
+    "category": "Equipment",
+    "price": 34.99,
+    "deal": "10% off with bike purchase"
+  },
+  {
+    "id": 19,
+    "name": "Action Camera",
+    "category": "Electronics",
+    "price": 249.99,
+    "deal": "Free mount with purchase"
+  },
+  {
+    "id": 20,
+    "name": "Fishing Rod",
+    "category": "Outdoor Gear",
+    "price": 99.99,
+    "deal": "20% off for fishing club members"
+  },
+  {
+    "id": 21,
+    "name": "Men's Compression Shorts",
+    "category": "Apparel",
+    "price": 34.99,
+    "deal": "15% off for gym members"
+  },
+  {
+    "id": 22,
+    "name": "Volleyball",
+    "category": "Equipment",
+    "price": 19.99,
+    "deal": "10% off for team orders"
+  },
+  {
+    "id": 23,
+    "name": "Women's Cross-Training Shoes",
+    "category": "Footwear",
+    "price": 89.99,
+    "deal": "20% off with fitness class signup"
+  },
+  {
+    "id": 24,
+    "name": "Portable Camping Chair",
+    "category": "Outdoor Gear",
+    "price": 49.99,
+    "deal": "Buy 2, get 10% off"
+  },
+  {
+    "id": 25,
+    "name": "Heart Rate Monitor",
+    "category": "Electronics",
+    "price": 79.99,
+    "deal": "15% off with app download"
+  },
+  {
+    "id": 26,
+    "name": "Softball Bat",
+    "category": "Equipment",
+    "price": 129.99,
+    "deal": "Free batting gloves with purchase"
+  },
+  {
+    "id": 27,
+    "name": "Kids' Running Shoes",
+    "category": "Footwear",
+    "price": 49.99,
+    "deal": "10% off for school sports teams"
+  },
+  {
+    "id": 28,
+    "name": "Sleeping Bag",
+    "category": "Outdoor Gear",
+    "price": 69.99,
+    "deal": "20% off with tent purchase"
+  },
+  {
+    "id": 29,
+    "name": "Men's Fleece Pullover",
+    "category": "Apparel",
+    "price": 39.99,
+    "deal": "Buy one, get second 30% off"
+  },
+  {
+    "id": 30,
+    "name": "Lacrosse Stick",
+    "category": "Equipment",
+    "price": 99.99,
+    "deal": "15% off for league players"
+  }
+]

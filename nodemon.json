@@ -1,0 +1,10 @@
+{
+  "execMap": {
+    "ts": "tsx"
+  },
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "watch": ["src", ".env"],
+  "ext": "ts,json"
+}
