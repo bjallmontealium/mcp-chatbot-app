@@ -26,7 +26,7 @@ const productsServer = new MCPServer({
 // Tool to fetch products
 const fetchProductsTool: Tool = {
   name: 'fetch_products',
-  description: 'Retrieve a list of products with their deals',
+  description: 'Retrieve a list of product deal data',
   parameters: {
     type: 'object',
     properties: {
