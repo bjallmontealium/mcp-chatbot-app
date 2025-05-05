@@ -19,7 +19,7 @@ const momentsServer = new MCPServer({
 // Tool to fetch visitor data
 const fetchVisitorDataTool: Tool = {
   name: 'fetch_visitor_data',
-  description: 'Retrieve visitor data including audience and badges',
+  description: 'Retrieve visitor data including audiences, badges, and metrics.',
   parameters: {
     type: 'object',
     properties: {
