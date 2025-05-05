@@ -29,7 +29,7 @@ The application is built using a microservices architecture with three main comp
 
 3. **MCP Servers**
    - Products Server: Manages product and deal data
-   - Moments Server: Integrates with Tealium Moments for visitor data
+   - Moments API Server: Integrates with Tealium Moments API for visitor data
    - Central MCP Client: Coordinates between servers and chat processing
 
 ## Environment Variables
